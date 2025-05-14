@@ -6,3 +6,10 @@
 # https://dart.dev/guides/libraries/private-files#pubspeclock.
 pubspec.lock
 coverage/
+melos_mcp_dart.iml
+example/anthropic-client/melos_anthropic_client.iml
+example/anthropic-client/pubspec_overrides.yaml
+example/fetch-server/melos_fetch_server.iml
+example/fetch-server/pubspec_overrides.yaml
+example/gemini-client/melos_gemini_client.iml
+example/gemini-client/pubspec_overrides.yaml
