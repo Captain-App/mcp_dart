@@ -1,0 +1,15 @@
+# Backstage catalog entry — discovered by https://backstage.captainapp.co.uk
+# (captain-k3s GitHub App). Edit freely: type, lifecycle, system, owner, links.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mcp_dart
+  description: "Dart implementation of MCP SDK"
+  annotations:
+    github.com/project-slug: Captain-App/mcp_dart
+  tags:
+    - fork
+spec:
+  type: library
+  lifecycle: production
+  owner: group:default/captain-app
